@@ -1,4 +1,4 @@
-This repository documents the work on the final coursework for the Instruction Architecture and Compilers 2024 module, collaboratively completed with [Noam Weitzman](https://github.com/noamweitz).
+This repository documents the work on the final coursework for the Instruction Architecture and Compilers 2024 module, collaboratively completed with [Sara Chehab](https://github.com/sarachehab).
 
 
 ## Project Overview
